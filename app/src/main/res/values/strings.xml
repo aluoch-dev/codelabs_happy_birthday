@@ -12,5 +12,6 @@
     <string name="birthday_calling">Birthday Calling &#8230;</string>
     <string name="accept">Accept</string>
     <string name="decline">Decline</string>
-    <string name="happy_birthday_rapunzel">Happy Birthday, Rapunzel!</string>
+    <string name="happy_birthday_text">Happy Birthday, Rapunzel!</string>
+    <string name="signature_text">From Laurine</string>
 </resources>
